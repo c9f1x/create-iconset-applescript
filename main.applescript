@@ -20,7 +20,6 @@ on run
 		my createICNS()
 		--Cleaning up
 		my cleanupFolder()
-		--Making a flounder.icns
 	on error
 		--Something went wrong!
 		my errorDialog()
